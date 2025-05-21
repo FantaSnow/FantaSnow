@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Dmytro — C# / Python Backend Developer ⚙️ | React Frontend Developer ⚡
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/FantaSnow?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=FantaSnow&color=blue)
 
 ---
 
